@@ -1,0 +1,60 @@
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+.danhmuc_them-ip{
+    padding: 12px 30px;
+    box-shadow: 4px;
+    border-radius: 12px;
+}
+.danhmuc_them-btn{
+    padding:8px 24px;
+    border-radius: 12px;
+    background-color: #117369;
+    color: #fff;
+    font-size:18px;
+}
+.danhmuc_them-btn:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.menu {
+    width: 100%;
+}
+.navbar_1 {
+    background-color: #117369;
+}
+.nav_ul {
+    margin: 0;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.nav_li {
+    position: relative;
+    margin-right: 8px;
+    padding: 12px 6px;
+}
+.nav_a {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 0;
+    position: relative;
+}
+.nav_a .badge {
+    position: absolute;
+    top: -0;
+    right: -10px;
+    padding: 1px 3px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+  }
+  .header_logo {
+    height: 87px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D9DCE2;
+}

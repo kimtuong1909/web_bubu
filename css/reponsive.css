@@ -1,0 +1,26 @@
+@media (max-width: 1368px) {
+    .header_navbar {
+        display: none !important;
+    }
+
+    .navbar_mobile {
+        display: block !important;
+    }
+
+    .header_logo {
+        display: none;
+    }
+
+    .navbar_1 {
+        display: none;
+    }
+
+    .product_name {
+        font-size: 14px;
+    }
+}
+
+.navbar_mobile {
+    display: none;
+}
+

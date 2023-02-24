@@ -1,0 +1,12 @@
+.table_donhang_tr, .table_donhang {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .table_donhang_tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .table_donhangcuatoi{
+    margin: 0 auto;
+  }
